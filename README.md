@@ -12,6 +12,11 @@ pip install llama-cpp-python
 ```
 
 ## Usage
+### Run
+```
+python app.py
+```
+
 ### Use your own Llama GGUF model
 ```
 # Load Llama3 model
